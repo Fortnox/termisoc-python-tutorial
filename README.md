@@ -9,7 +9,7 @@ This repo is forked from Ross Bearman's game example the first year it was given
 1. `hello_world.py` - a simple 'Hello World' example
 1. `hello_name.py` - as 'Hello World', but with keyboard input
 1. `fibonacci.py` - looping around to generate 10 instances of the fibonnaci sequence
-1. `tweets.py` - gets and prints the last 10 tweets from @TermiSoc
+1. `tweets.py` - gets and prints the last 20 tweets from the public timeline
 1. `adventure_game.py` - a starting point for a text based adventure game, using OOP
 
 ## Contributing
