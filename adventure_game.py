@@ -10,9 +10,10 @@ class Area:
 		self.description = description
 
 	def describeArea(self):
-		i = 0
+		print self.description
 		if(self.inventory):
-			print self.description + "\nObvious items are:"
+			i = 0
+			print "Obvious items are:"
 			for item in self.inventory:
 				print str(i) + ": " + item.name
 				i += 1
